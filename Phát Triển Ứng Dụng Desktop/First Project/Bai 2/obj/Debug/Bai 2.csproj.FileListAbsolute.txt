@@ -1,0 +1,9 @@
+C:\Users\CICT\source\repos\First Project\Bai 2\bin\Debug\Bai 2.exe.config
+C:\Users\CICT\source\repos\First Project\Bai 2\bin\Debug\Bai 2.exe
+C:\Users\CICT\source\repos\First Project\Bai 2\bin\Debug\Bai 2.pdb
+C:\Users\CICT\source\repos\First Project\Bai 2\obj\Debug\Bai_2.MainForm.resources
+C:\Users\CICT\source\repos\First Project\Bai 2\obj\Debug\Bai_2.Properties.Resources.resources
+C:\Users\CICT\source\repos\First Project\Bai 2\obj\Debug\Bai 2.csproj.GenerateResource.cache
+C:\Users\CICT\source\repos\First Project\Bai 2\obj\Debug\Bai 2.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\First Project\Bai 2\obj\Debug\Bai 2.exe
+C:\Users\CICT\source\repos\First Project\Bai 2\obj\Debug\Bai 2.pdb

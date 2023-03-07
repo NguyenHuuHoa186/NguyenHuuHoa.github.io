@@ -1,0 +1,10 @@
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First Project.csprojAssemblyReference.cache
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First_Project.MainFrom.resources
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First Project.csproj.GenerateResource.cache
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\First Project\First Project\bin\Debug\First Project.exe.config
+C:\Users\CICT\source\repos\First Project\First Project\bin\Debug\First Project.exe
+C:\Users\CICT\source\repos\First Project\First Project\bin\Debug\First Project.pdb
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First Project.exe
+C:\Users\CICT\source\repos\First Project\First Project\obj\Debug\First Project.pdb
