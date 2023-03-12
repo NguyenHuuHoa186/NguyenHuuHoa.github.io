@@ -1,0 +1,10 @@
+D:\winform-Tabcontrol\winform-Tabcontrol\bin\Debug\winform-Tabcontrol.exe.config
+D:\winform-Tabcontrol\winform-Tabcontrol\bin\Debug\winform-Tabcontrol.exe
+D:\winform-Tabcontrol\winform-Tabcontrol\bin\Debug\winform-Tabcontrol.pdb
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform-Tabcontrol.csproj.AssemblyReference.cache
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform_Tabcontrol.frmTabControl.resources
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform_Tabcontrol.Properties.Resources.resources
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform-Tabcontrol.csproj.GenerateResource.cache
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform-Tabcontrol.csproj.CoreCompileInputs.cache
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform-Tabcontrol.exe
+D:\winform-Tabcontrol\winform-Tabcontrol\obj\Debug\winform-Tabcontrol.pdb
